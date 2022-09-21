@@ -6,7 +6,7 @@ expect? Thats all it does. Deal with it.
 Original project created by TheSystemGuy1337, further on maintained and worked
 on by dreamscached.
 
-## Disclaimer (so I don't get blown up by Quake III players)
+## Disclaimer
 
 This software is entended as a harmless prank, and will not damage your system.
 
