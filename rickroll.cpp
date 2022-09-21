@@ -1,6 +1,5 @@
 // Never gonna give you up, never gonna let you down.
-// rickroll.cpp developed by TheSystemGuy and augmented with cross-platform
-// compilation by dreamscached.
+// rickroll.cpp developed by TheSystemGuy and taken over by dreamscached.
 
 #include <string>
 
