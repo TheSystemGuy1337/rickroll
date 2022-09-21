@@ -1,5 +1,7 @@
 # Rickroll
-A C++ program that as the title suggests, Rickrolls the user. What did you expect? Thats all it does. Deal with it.
+A C++ program that as the title suggests, Rickrolls the user. 
+
+What did you expect? Thats all it does. Deal with it.
 
 
 ## Prerequisites
