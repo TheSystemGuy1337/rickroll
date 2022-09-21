@@ -9,5 +9,5 @@ A Windows PC running Windows 7 or later, will not work on macOS or Linux. (Linux
 
 Visual Studio 2019 or later.
 
-# Disclaimer (so I don't get blown up by Quake III players)
+## Disclaimer (so I don't get blown up by Quake III players)
 This software is entended as a harmless prank, and will not damage your system.
