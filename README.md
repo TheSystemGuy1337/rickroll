@@ -4,7 +4,7 @@ A C++ program that as the title suggests, Rickrolls the user.
 What did you expect? Thats all it does. Deal with it.
 
 ## Note
-This project is UNSUPPORTED, a modern continued version that is multiplatform is available at https://github.com/dreamscached/rickroll
+This project is UNSUPPORTED, a modern continued version that is multiplatform is available at https://github.com/dreamscached/rickrollcxx
 
 ## Prerequisites
 A Windows PC running Windows 7 or later, will not work on macOS or Linux.
